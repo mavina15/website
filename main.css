@@ -127,3 +127,13 @@ a{
   object-fit: cover;
   object-position: left;
 }
+
+ul{
+  font-size: 25px;
+  color: #00FF00;
+}
+
+li{
+  list-style-type: none;
+}
+
