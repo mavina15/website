@@ -1,4 +1,5 @@
 
+
 head {
   font-family: monospace;
 }
@@ -29,7 +30,7 @@ h2{
   font-size: 30px;
   letter-spacing: 5px;
   color: #D0CA9C;
-  text-align: left; 
+  text-align: center; 
   background: black;
 }
 
@@ -49,7 +50,7 @@ img {
   border-radius: 50%;
 }
 
-p{
+p {
   font-size: 15px;
   color: #00FF00;
   text-align: center;
@@ -136,4 +137,20 @@ ul{
 li{
   list-style-type: none;
 }
+
+.bio {
+  padding: 0px 50px;
+  text-align: center;
+  text-align: justify;
+
+}
+
+.undergrad {
+  padding: 10px 50px;
+}
+
+.cv {
+  margin-left: 275px;
+}
+
 
